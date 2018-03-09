@@ -4,8 +4,9 @@ This is a simple text file
 Trying this out
 '''
 
-## SMalll comment
+## Smalll comment
 
-Flask couurse pnly build WabAPI
+Flask course only for building WebAPI
 
+Added this line
 
